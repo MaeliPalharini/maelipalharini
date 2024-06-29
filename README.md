@@ -1,6 +1,9 @@
+## Multilanguage README Pattern
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/maelipalharini/maelipalharini9/blob/main/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/maelipalharini/maelipalharini/blob/main/README.pt-br.md)
+
 ## Olá, bem-vindo! Me chamo Maeli. <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="40">
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/pipas2309/pipas2309/blob/main/README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/pipas2309/pipas2309/blob/main/README.pt-br.md)
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 ### Sou uma desenvolvedora FullStack! 👋💫:
 <img src="assets/images/capa.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
