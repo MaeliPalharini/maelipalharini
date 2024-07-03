@@ -9,10 +9,12 @@
 <a href="https://github.com/maelipalharini/maelipalharini/blob/main/README.pt-br.md">
   <img src="https://img.shields.io/badge/lang-pt--br-green.svg" alt="README em Português" />
 </a>
-
 </div>
 
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E3FF7&random=false&width=435&lines=Hello%2C+welcome!+My+name+is+Maeli.;I+am+a+FullStack+developer!)](https://git.io/typing-svg)
+</div>
 
 <img src="assets/images/capa.png" alt="illustration of a computer" min-width="350px" max-width="350px" width="350px" align="right">
 
