@@ -1,10 +1,11 @@
-<div align="right">
+<div align="left">
     
 ## Multilanguage README Pattern
     
   <a href="https://github.com/maelipalharini/maelipalharini/blob/main/README.md">
     <img src="https://img.shields.io/badge/lang-en-red.svg" alt="English README" />
   </a>
+  
   <a href="https://github.com/maelipalharini/maelipalharini/blob/main/README.pt-br.md">
     <img src="https://img.shields.io/badge/lang-pt--br-green.svg" alt="README em Português" />
   </a>
