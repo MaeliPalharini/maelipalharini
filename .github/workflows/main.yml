@@ -13,8 +13,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Run the snake generator script
-        uses: Platane/snk@v2
+      - name: Generate snake game from GitHub contribution grid
+        uses: Platane/snk@v3.2.0
         with:
           github_user_name: MaeliPalharini
           outputs: |
