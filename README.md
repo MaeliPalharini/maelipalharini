@@ -11,10 +11,9 @@
   </a>
 </div>
 
-## Olá, bem-vindo! Me chamo Maeli. Sou uma desenvolvedora FullStack! 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E3FF7&random=false&width=435&lines=Ol%C3%A1%2C+bem-vindos(a)!+Me+chamo+Maeli.;Sou+uma+desenvolvedora+FullStack!+)](https://git.io/typing-svg)
 
 <img src="assets/images/capa.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
-
 
 🎓 Atualmente faço curso superior em Análise e Desenvolvimento de Sistemas.
 
