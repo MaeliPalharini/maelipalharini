@@ -15,7 +15,7 @@
 
 Dio: Bootcamp de Python. / Origamid: UI Designer.
 
-💼 Atualmente estou trabalhando em projetos pessoais de desenvolvimento web.
+💼 Estou trabalhando em projetos pessoais de desenvolvimento web.
 
 🫶🥹Gosto de passear com meu dálmata Cacau e meu companheiro, tocar violão esporadicamente.
 
@@ -25,10 +25,9 @@ Dio: Bootcamp de Python. / Origamid: UI Designer.
 
 📸 Também sei fotografar profissionalmente, já trabalhei com fotografia em estúdio e eventos.
 
-![Snake animation](https://github.com/MaeliPalharini/MaeliPalharini/raw/output/github-contribution-grid-snake-dark.svg)
-<img alt="github-contribution-grid-snake" src="https://github.com/MaeliPalharini/MaeliPalharini/raw/output/github-contribution-grid-snake-dark.svg" style="visibility:visible;max-width:100%;">
 
-# 🌐 Onde me encontrar nas redes:⤵️
+
+# 🌐 Onde me encontrar:⤵️
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/6MmJtVPp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maeli-palharini/) 
 <a href="mailto:maeli.palharini@hotmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
