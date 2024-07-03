@@ -34,7 +34,7 @@
 
 <h2>Where to find me <span>🍃👁👁🍃</span></h2>
 
-<div align="right">
+<div align="center">
   <a href="mailto:maeli.palharini@hotmail.com" title="Outlook">
     <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&labelColor=0078D4&logo=microsoftoutlook&logoColor=white" alt="Outlook Badge" />
   </a>
