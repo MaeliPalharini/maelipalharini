@@ -71,3 +71,6 @@
   
   <img width="41%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=MaeliPalharini&theme=radical&background=0d1117&border=6932f5&stroke=6932f5&ring=C77DFF&fire=C77DFF&currStreakLabel=00BFBF&sideNums=00BFBF&currStreakNum=00BFBF&dates=00BFBF" alt="GitHub Streak" style="margin: 10px;" />
 </div>
+
+---
+[![](https://visitcount.itsvg.in/api?id=MaeliPalharini&icon=10&color=11)](https://visitcount.itsvg.in)
