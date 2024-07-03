@@ -24,15 +24,10 @@ Dio: Bootcamp de Python. / Origamid: UI Designer.
 🎓Curiosidade sobre mim, sou formado em Engenharia Florestal com mestrado em Agroecologia.
 
 📸 Também sei fotografar profissionalmente, já trabalhei com fotografia em estúdio e eventos.
-.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MaeliPalharini/SEU_REPOSITORIO/raw/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MaeliPalharini/SEU_REPOSITORIO/raw/output/github-contribution-grid-snake.svg" />
-  <img alt="github-contribution-grid-snake" src="https://github.com/MaeliPalharini/SEU_REPOSITORIO/raw/output/github-contribution-grid-snake.svg" />
-</picture>
+![Snake animation](https://github.com/MaeliPalharini/SEU_REPOSITORIO/raw/output/github-contribution-grid-snake-dark.svg)
+<img alt="github-contribution-grid-snake" src="https://github.com/MaeliPalharini/SEU_REPOSITORIO/raw/output/github-contribution-grid-snake-dark.svg" style="visibility:visible;max-width:100%;">
+
 
 # 🌐 Onde me encontrar nas redes:⤵️
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/6MmJtVPp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maeli-palharini/) 
