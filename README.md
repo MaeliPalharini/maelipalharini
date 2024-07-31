@@ -69,15 +69,16 @@
 
 ## My GitHub Status 📊
 
-<div align="center">
+<div style="display: center">
   <img width="41%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/MaeliPalharini?cardType=github&Background=0D1117&Text=00BFBF&Title=9C55DF&Border=6932f5&Ring=C77DFF" alt="Awesome GitHub Stats" style="margin: 10px;" />
 
   <img width="41%" height="195px" src="https://github-contributor-stats.vercel.app/api?username=MaeliPalharini&limit=5&theme=radical&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=9C55DF&text_color=00BFBF&border_color=6932f5" alt="GitHub Contributor Stats" style="margin: 10px;" />
-    
+
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaeliPalharini&layout=compact&hide_border=false&bg_color=0d1117&title_color=9C55DF&text_color=00BFBF&border_color=6932f5" alt="Most Used Languages" style="margin: 10px;" />
-  
+
   <img width="41%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=MaeliPalharini&theme=radical&background=0d1117&border=6932f5&stroke=6932f5&ring=C77DFF&fire=C77DFF&currStreakLabel=00BFBF&sideNums=00BFBF&currStreakNum=00BFBF&dates=00BFBF" alt="GitHub Streak" style="margin: 10px;" />
 </div>
+
 
 ---
 <div align="center">
