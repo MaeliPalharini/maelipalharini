@@ -28,7 +28,7 @@
 
 **Curiosidades sobre mim:** 
 
-🌳Sou formado em Engenharia Florestal com mestrado em Agroecologia.
+🌳 Tenho formação anterior em Engenharia Florestal com mestrado em Agroecologia.
 
 📸 Sei fotografar profissionalmente. 
 
