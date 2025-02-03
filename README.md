@@ -22,8 +22,7 @@
 
 **Also studying:**
 
-📚 Dio: Python Bootcamp. / Origamid: UI Designer.
-
+📚 JAVA
 💼 I am working on personal web development projects.
 
 **Fun facts about me:**
