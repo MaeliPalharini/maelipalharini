@@ -23,6 +23,7 @@
 **Also studying:**
 
 📚 JAVA
+
 💼 I am working on personal web development projects.
 
 **Fun facts about me:**
