@@ -1,5 +1,12 @@
-Multilanguage README Pattern
-README em Português
+## Multilanguage README Pattern
+
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md) [![pt-br](https://img.shields.io/badge/lang-pt--br-limegreen.svg)](README.pt-br.md)
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E3FF7&random=false&width=435&lines=Hello%2C+welcome!+My+name+is+Maeli.;I+am+a+FullStack+developer!)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
   
