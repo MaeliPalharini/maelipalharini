@@ -1,15 +1,18 @@
 <div align="left">
 
-## Multilanguage README Pattern
+<div align="center">
 
-<a href="https://github.com/maelipalharini/maelipalharini/blob/main/README.md">
-  <img src="https://img.shields.io/badge/lang-en-red.svg" alt="English README" />
-</a>
+## My Technical Skills 👩‍💻
 
-<a href="https://github.com/maelipalharini/maelipalharini/blob/main/README.pt-br.md">
-  <img src="https://img.shields.io/badge/lang-pt--br-green.svg" alt="README em Português" />
-</a>
-</div>
+| Programming Languages | Markup and Styling | Frameworks |
+| --------------------- | ------------------ | ---------- |
+| ![Python Badge](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=30A3DC) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC) ![TypeScript Badge](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=30A3DC) | ![HTML Badge](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC) ![CSS Badge](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=30A3DC) | ![Flask Badge](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=30A3DC) ![React Badge](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=30A3DC) ![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot&logoColor=30A3DC) |
+
+<br/>
+
+| Databases | Development Tools |
+| --------- | ------------------ |
+| ![MySQL Badge](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=30A3DC) ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=30A3DC) | ![Git Badge](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=30A3DC) ![Figma Badge](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=30A3DC) ![Illustrator Badge](https://img.shields.io/badge/Illustrator-000?style=for-the-badge&logo=adobeillustrator&logoColor=30A3DC) ![Photoshop Badge](https://img.shields.io/ba)
 
 <div align="center">
   
