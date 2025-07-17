@@ -59,19 +59,34 @@
 
 <div align="center">
 
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/MaeliPalharini?cardType=github&Background=0D1117&Text=00BFBF&Title=9C55DF&Border=6932f5&Ring=C77DFF" 
-       alt="Awesome GitHub Stats" width="45%" style="margin: 10px;" />
-  
-  <img src="https://github-contributor-stats.vercel.app/api?username=MaeliPalharini&limit=5&theme=radical&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=9C55DF&text_color=00BFBF&border_color=6932f5" 
-       alt="GitHub Contributor Stats" width="45%" style="margin: 10px;" />
+<table>
+  <tr>
+    <td>
+      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/MaeliPalharini?cardType=github&Background=0D1117&Text=00BFBF&Title=9C55DF&Border=6932f5&Ring=C77DFF" alt="GitHub Stats" width="350px"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaeliPalharini&theme=radical&background=0d1117&border=6932f5&stroke=6932f5&ring=C77DFF&fire=C77DFF&currStreakLabel=00BFBF&sideNums=00BFBF&currStreakNum=00BFBF&dates=00BFBF" alt="GitHub Streak" width="350px"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaeliPalharini&layout=compact&hide_border=false&bg_color=0d1117&title_color=9C55DF&text_color=00BFBF&border_color=6932f5" alt="Top Languages" width="350px"/>
+    </td>
+    <td>
+      <img src="https://github-contributor-stats.vercel.app/api?username=MaeliPalharini&limit=5&theme=radical&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=9C55DF&text_color=00BFBF&border_color=6932f5" alt="Contributor Stats" width="350px"/>
+    </td>
+  </tr>
+</table>
 
-  <br/>
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaeliPalharini&layout=compact&hide_border=false&bg_color=0d1117&title_color=9C55DF&text_color=00BFBF&border_color=6932f5" 
-       alt="Most Used Languages" width="45%" style="margin: 10px;" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaeliPalharini&theme=radical&background=0d1117&border=6932f5&stroke=6932f5&ring=C77DFF&fire=C77DFF&currStreakLabel=00BFBF&sideNums=00BFBF&currStreakNum=00BFBF&dates=00BFBF" 
-       alt="GitHub Streak" width="45%" style="margin: 10px;" />
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=MaeliPalharini&icon=10&color=11)](https://visitcount.itsvg.in)
+&nbsp;•&nbsp;
+<img src="https://img.shields.io/badge/Deploy-Railway-000?style=for-the-badge&logo=railway&logoColor=white"/>
 
 </div>
 
