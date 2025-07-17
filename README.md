@@ -20,10 +20,6 @@
 
 🎓 I am currently pursuing a degree in Systems Analysis and Development.
 
-**Also studying:**
-
-📚 JAVA
-
 💼 I am working on personal web development projects.
 
 **Fun facts about me:**
@@ -56,16 +52,17 @@
   
 | Programming Languages | Markup and Styling | Frameworks |
 | --------------------- | ------------------ | ---------- |
-| ![Python Badge](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=30A3DC) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC) | ![HTML Badge](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC) ![CSS Badge](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=30A3DC) | ![Flask Badge](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=30A3DC) ![React Badge](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=30A3DC) |
+| ![Python Badge](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=30A3DC) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC) ![TypeScript Badge](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=30A3DC) | ![HTML Badge](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC) ![CSS Badge](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=30A3DC) | ![Flask Badge](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=30A3DC) ![React Badge](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=30A3DC) |
 </div>
 
 <div align="center">
   
 | Databases | Development Tools |
 | --------- | ------------------ |
-| ![MySQL Badge](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=30A3DC) ![SQL Badge](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=30A3DC) | ![Git Badge](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=30A3DC) ![Figma Badge](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=30A3DC) ![Illustrator Badge](https://img.shields.io/badge/Illustrator-000?style=for-the-badge&logo=adobeillustrator&logoColor=30A3DC) ![Photoshop Badge](https://img.shields.io/badge/Photoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=30A3DC) ![PyCharm Badge](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=30A3DC) ![WebStorm Badge](https://img.shields.io/badge/WebStorm-000?style=for-the-badge&logo=webstorm&logoColor=30A3DC) |
+| ![MySQL Badge](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=30A3DC) ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=30A3DC) | ![Git Badge](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=30A3DC) ![Figma Badge](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=30A3DC) ![Illustrator Badge](https://img.shields.io/badge/Illustrator-000?style=for-the-badge&logo=adobeillustrator&logoColor=30A3DC) ![Photoshop Badge](https://img.shields.io/badge/Photoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=30A3DC) ![PyCharm Badge](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=30A3DC) ![WebStorm Badge](https://img.shields.io/badge/WebStorm-000?style=for-the-badge&logo=webstorm&logoColor=30A3DC) |
 
 </div>
+
 
 ## My GitHub Status 📊
 
